@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("hot-fix test!!!!");
         System.out.println("gitee test!!!!");
         System.out.println("gitee test2!!!!");
+        s= "github 更新";
     }
 
 }
